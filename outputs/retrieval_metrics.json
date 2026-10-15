@@ -1,0 +1,17 @@
+{
+  "bm25": {
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0,
+    "recall_at_k": 1.0
+  },
+  "hybrid": {
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0,
+    "recall_at_k": 1.0
+  },
+  "tfidf": {
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0,
+    "recall_at_k": 1.0
+  }
+}

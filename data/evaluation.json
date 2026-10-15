@@ -1,0 +1,20 @@
+[
+  {
+    "question_id": "Q1",
+    "question": "What does retrieval augmented generation combine?",
+    "relevant_doc_ids": ["D1"],
+    "language": "en"
+  },
+  {
+    "question_id": "Q2",
+    "question": "Which metrics evaluate ranked retrieval results?",
+    "relevant_doc_ids": ["D3"],
+    "language": "en"
+  },
+  {
+    "question_id": "Q3",
+    "question": "متى يجب على نظام الذكاء الاصطناعي الامتناع عن الإجابة؟",
+    "relevant_doc_ids": ["D5"],
+    "language": "ar"
+  }
+]
