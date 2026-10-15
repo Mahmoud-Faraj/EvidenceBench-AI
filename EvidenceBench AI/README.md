@@ -137,3 +137,7 @@ readable result is in `outputs/scifact_retrieval_metrics.json`.
 **Mahmoud Faraj**  
 PhD in Electrical and Computer Engineering, University of Waterloo  
 Applied AI, machine learning, data science, and AI engineering
+
+## License
+
+This project is released under the [MIT License](LICENSE).
