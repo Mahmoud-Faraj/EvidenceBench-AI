@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "D1",
+    "title": "Retrieval augmented generation",
+    "text": "Retrieval augmented generation combines information retrieval with text generation. A retriever selects external passages and a generator uses those passages as context. Grounding can reduce unsupported statements, but retrieval errors and weak evidence can still cause incorrect answers.",
+    "language": "en"
+  },
+  {
+    "doc_id": "D2",
+    "title": "Hybrid search",
+    "text": "Hybrid search combines lexical retrieval such as BM25 with a semantic retrieval model. Lexical methods preserve exact-term matching, while semantic representations can retrieve passages that express similar meanings with different words.",
+    "language": "en"
+  },
+  {
+    "doc_id": "D3",
+    "title": "Evaluation metrics",
+    "text": "Retrieval quality can be measured with recall at k, mean reciprocal rank, and normalized discounted cumulative gain. Grounded generation should also measure citation validity, claim support, answer correctness, latency, and abstention behavior.",
+    "language": "en"
+  },
+  {
+    "doc_id": "D4",
+    "title": "الاسترجاع المعزز بالتوليد",
+    "text": "يجمع الاسترجاع المعزز بالتوليد بين استرجاع المعلومات وتوليد النص. يسترجع النظام مقاطع من مصادر خارجية ثم يستخدمها لإنتاج إجابة مدعومة بالأدلة. لا يضمن الاسترجاع وحده منع الهلوسة إذا كانت الأدلة ناقصة أو غير مرتبطة بالسؤال.",
+    "language": "ar"
+  },
+  {
+    "doc_id": "D5",
+    "title": "الامتناع عن الإجابة",
+    "text": "يجب على نظام الذكاء الاصطناعي الامتناع عن الإجابة عندما لا تتوفر أدلة كافية. يمكن معايرة عتبة الثقة باستخدام بيانات منفصلة عن بيانات الاختبار حتى لا يتم تحسين النظام على النتائج النهائية.",
+    "language": "ar"
+  }
+]
