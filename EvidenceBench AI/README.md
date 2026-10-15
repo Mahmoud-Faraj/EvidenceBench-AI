@@ -7,14 +7,6 @@ augmented systems. The first release runs completely offline and exposes each st
 retrieval, evidence-constrained answering, citation validation, claim-support scoring, abstention, ranking
 metrics, a REST API, and an interactive dashboard.
 
-## Recruiter quick tour
-
-1. Read the verified benchmark results below.
-2. Run the dashboard locally with one command.
-3. Inspect `src/evidencebench/` for the retrieval, generation, and verification components.
-4. Open `/docs` on the running API to exercise the typed REST endpoint.
-5. Review the automated tests and GitHub Actions workflow.
-
 ## Why this project
 
 Many RAG demos show only a chatbot interface. EvidenceBench treats evaluation as part of the product. It
