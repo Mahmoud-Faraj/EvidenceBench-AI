@@ -140,16 +140,8 @@ readable result is in `outputs/scifact_retrieval_metrics.json`.
 - Experiment tracking and model/data cards
 - Public deployment and demonstration video
 
-## Portfolio wording
-
-Recruiter-facing résumé and LinkedIn wording is available in [`docs/PORTFOLIO_WORDING.md`](docs/PORTFOLIO_WORDING.md).
-
 ## Author
 
 **Mahmoud Faraj**  
 PhD in Electrical and Computer Engineering, University of Waterloo  
 Applied AI, machine learning, data science, and AI engineering
-
-## License
-
-MIT
